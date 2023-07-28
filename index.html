@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <div class="rules" id="rules">
+    
+    <div class="rules-questions" id="questions"></div>
+
+
+    <div class="rules-indicator" id="indicator">1/20</div>
+
+
+    <div class="rules-results" id="result">
+      <div class="rules-results-item">
+        <div class="rules-results-item__question">
+          Вопрос 1
+        </div>
+        <ul class="rules-results-item__answer">
+          <li class="rules-questions-item__answer-item">
+            Ответ 1
+          </li>
+          <li class="rules-questions-item__answer-item">
+            Ответ 2
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="rules-controls">
+      <button class="btn-next" id="btn-next" disabled>Далее</button>
+      <button class="btn-restart" id="btn-restart">С начала</button>
+    </div>
+  </div>
+
+
+  <script type="module" src="app.js"></script>
+</body>
+
+</html>
