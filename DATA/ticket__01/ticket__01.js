@@ -1,7 +1,7 @@
 export const DATA = [
   {
     question: 'Вопрос №1: В каком случае водитель совершит вынужденную остановку?',
-    link: './img/ticket__01/no__picture.jpg',
+    link: './img/ticket__01/0-0.jpg',
     answer: [
       {
         id: '1',
@@ -22,7 +22,7 @@ export const DATA = [
   },
   {
     question: 'Вопрос №2: Разрешен ли Вам поворот на дорогу с грунтовым покрытием?',
-    link: './img/ticket__01/01__02.jpg',
+    link: './img/ticket__01/1-2.jpg',
     answer: [
       {
         id: '4',
@@ -43,7 +43,7 @@ export const DATA = [
   },
   {
     question: 'Вопрос №3: Можно ли Вам остановиться в указанном месте для посадки пассажира?',
-    link: './img/ticket__01/01__03.jpg',
+    link: './img/ticket__01/1-3.jpg',
     answer: [
       {
         id: '7',
@@ -64,7 +64,7 @@ export const DATA = [
   },
   {
     question: 'Вопрос №4: Какие из указанных знаков запрещают движение водителям мопедов?',
-    link: './img/ticket__01/01__04.jpg',
+    link: './img/ticket__01/1-4.jpg',
     answer: [
       {
         id: '10',
@@ -90,7 +90,7 @@ export const DATA = [
   },
   {
     question: 'Вопрос №5: Вы намерены повернуть налево. Где следует остановиться, чтобы уступить дорогу легковому автомобилю?',
-    link: './img/ticket__01/01__05.jpg',
+    link: './img/ticket__01/1-5.jpg',
     answer: [
       {
         id: '14',
@@ -116,7 +116,7 @@ export const DATA = [
   },
   {
     question: 'Вопрос №6: Что означает мигание зеленого сигнала светофора?',
-    link: './img/ticket__01/no__picture.jpg',
+    link: './img/ticket__01/0-0.jpg',
     answer: [
       {
         id: '18',
@@ -137,7 +137,7 @@ export const DATA = [
   },
   {
     question: 'Вопрос №7: Водитель обязан подавать сигналы световыми указателями поворота (рукой):',
-    link: './img/ticket__01/no__picture.jpg',
+    link: './img/ticket__01/0-0.jpg',
     answer: [
       {
         id: '21',
@@ -163,7 +163,7 @@ export const DATA = [
   },
   {
     question: 'Вопрос №8: Как Вам следует поступить при повороте направо?',
-    link: './img/ticket__01/01__08.jpg',
+    link: './img/ticket__01/1-8.jpg',
     answer: [
       {
         id: '25',
@@ -184,7 +184,7 @@ export const DATA = [
   },
   {
     question: 'Вопрос №9: По какой траектории Вам разрешено выполнить разворот?',
-    link: './img/ticket__01/01__09.jpg',
+    link: './img/ticket__01/1-9.jpg',
     answer: [
       {
         id: '28',
@@ -205,7 +205,7 @@ export const DATA = [
   },
   {
     question: 'Вопрос №10:С какой скоростью Вы можете продолжить движение вне населенного пункта по левой полосе на легковом автомобиле?',
-    link: './img/ticket__01/01__10.jpg',
+    link: './img/ticket__01/1-10.jpg',
     answer: [
       {
         id: '31',
@@ -226,7 +226,7 @@ export const DATA = [
   },
   {
     question: 'Вопрос №11: Можно ли водителю легкового автомобиля выполнить опережение грузовых автомобилей вне населенного пункта по такой траектории?',
-    link: './img/ticket__01/01__11.jpg',
+    link: './img/ticket__01/1-11.jpg',
     answer: [
       {
         id: '34',
@@ -247,7 +247,7 @@ export const DATA = [
   },
   {
     question: 'Вопрос №12: В каком случае водителю разрешается поставить автомобиль на стоянку в указанном месте?',
-    link: './img/ticket__01/01__12.jpg',
+    link: './img/ticket__01/1-12.jpg',
     answer: [
       {
         id: '37',
@@ -268,12 +268,12 @@ export const DATA = [
   },
   {
     question: 'Вопрос №13: При повороте направо Вы должны уступить дорогу:',
-    link: './img/ticket__01/01__13.jpg',
+    link: './img/ticket__01/1-13.jpg',
     answer: [
       {
         id: '40',
         value: 'Только велосипедисту.',
-        correct: true,
+        correct: false,
       },
       {
         id: '41',
@@ -283,7 +283,7 @@ export const DATA = [
       {
         id: '42',
         value: 'Пешеходам и велосипедисту.',
-        correct: false,
+        correct: true,
       },
       {
         id: '43',
@@ -294,7 +294,7 @@ export const DATA = [
   },
   {
     question: 'Вопрос №14: Вы намерены проехать перекресток в прямом направлении. Кому следует уступить дорогу?',
-    link: './img/ticket__01/01__14.jpg',
+    link: './img/ticket__01/1-14.jpg',
     answer: [
       {
         id: '44',
@@ -320,7 +320,7 @@ export const DATA = [
   },
   {
     question: 'Вопрос №15: Кому Вы обязаны уступить дорогу при повороте налево?',
-    link: './img/ticket__01/01__15.jpg',
+    link: './img/ticket__01/1-15.jpg',
     answer: [
       {
         id: '48',
@@ -341,7 +341,7 @@ export const DATA = [
   },
   {
     question: 'Вопрос №16: С какой максимальной скоростью можно продолжить движение за знаком?',
-    link: './img/ticket__01/01__16.jpg',
+    link: './img/ticket__01/1-16.jpg',
     answer: [
       {
         id: '51',
@@ -367,7 +367,7 @@ export const DATA = [
   },
   {
     question: 'Вопрос №17: Для перевозки людей на мотоцикле водитель должен иметь водительское удостоверение на право управления транспортными средствами:',
-    link: './img/ticket__01/no__picture.jpg',
+    link: './img/ticket__01/0-0.jpg',
     answer: [
       {
         id: '55',
@@ -388,7 +388,7 @@ export const DATA = [
   },
   {
     question: 'Вопрос №18: При какой неисправности разрешается эксплуатация транспортного средства?',
-    link: './img/ticket__01/no__picture.jpg',
+    link: './img/ticket__01/0-0.jpg',
     answer: [
       {
         id: '58',
@@ -414,7 +414,7 @@ export const DATA = [
   },
   {
     question: 'Вопрос №19: В случае, когда правые колеса автомобиля наезжают на неукрепленную влажную обочину, рекомендуется:',
-    link: './img/ticket__01/no__picture.jpg',
+    link: './img/ticket__01/0-0.jpg',
     answer: [
       {
         id: '62',
@@ -435,20 +435,20 @@ export const DATA = [
   },
   {
     question: 'Вопрос №20: Что понимается под временем реакции водителя?',
-    link: './img/ticket__01/01__03.jpg',
+    link: './img/ticket__01/0-0.jpg',
     answer: [
       {
-        id: '31',
+        id: '65',
         value: 'Время с момента обнаружения водителем опасности до полной остановки транспортного средства.',
         correct: false,
       },
       {
-        id: '32',
+        id: '66',
         value: 'Время с момента обнаружения водителем опасности до начала принятия мер по ее избежанию.',
         correct: true,
       },
       {
-        id: '33',
+        id: '67',
         value: 'Время, необходимое для переноса ноги с педали управления подачей топлива на педаль тормоза.',
         correct: false,
       },

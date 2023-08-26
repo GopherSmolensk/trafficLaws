@@ -11,8 +11,7 @@ body {
 img {
   object-fit: cover;
   width: 800px;
-  height: 300px;
-  border-radius: 10px 10px 0 0; 
+  height: 300px
 }
 
 li {
@@ -23,12 +22,27 @@ button {
   cursor: pointer;
 }
 
+.tickets {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.ticket__link {
+  text-decoration: none;
+  color: inherit;
+  border: 1px solid #000;
+  border-radius: 5px;
+  padding: 10px;
+  /* color: #fff; */
+}
+
 .rules {
   margin: 0 auto;
   width: 800px;
   background-color: rgb(245, 202, 146);
   margin-top: 50px;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 .rules-questions-item {

@@ -1,6 +1,6 @@
 
-import DATA from './DATA/ticket__01.js';
-// import DATA from './DATA/ticket__02.js';
+
+import DATA from './ticket__02.js';
 
 
 
