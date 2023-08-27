@@ -39,7 +39,7 @@ button {
 
 .rules {
   margin: 0 auto;
-  width: 800px;
+  max-width: 800px;
   background-color: rgb(245, 202, 146);
   margin-top: 50px;
   border-radius: 5px;
