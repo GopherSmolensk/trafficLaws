@@ -1,12 +1,8 @@
 
-
-import DATA from './ticket__03.js';
-
-
+import DATA from './dataTicket__03.js';
 
 // Переменная пустой объект куда будем сохранять ответы на вопросы
 let localResults = {};
-
 
 //Получаем все id и помещаем в переменные
 const rules = document.getElementById('rules')
@@ -19,13 +15,10 @@ const btnRestart = document.getElementById('btn-restart')
 // Функция отвечает за рендер вопросов
 const renderQuestions = (index) => {
 
-
   renderIndecators(index + 1);
-
 
   // Берём наши вопросы и через атрибут вызываем наш шаг, который равен index
   questions.dataset.currentStep = index;
-
 
   // функция отвечает за рендер ответов
   const renderAnswers = () =>

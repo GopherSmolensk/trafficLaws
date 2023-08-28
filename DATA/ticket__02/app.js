@@ -1,6 +1,6 @@
 
 
-import DATA from './ticket__02.js';
+import DATA from './dataTicket__02.js';
 
 
 

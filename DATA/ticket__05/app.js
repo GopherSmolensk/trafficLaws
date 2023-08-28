@@ -1,7 +1,7 @@
 
 
-import DATA from './dataTicket__01.js';
-
+import DATA from './dataTicket__05.js';
+console.log('Hi');
 
 
 // Переменная пустой объект куда будем сохранять ответы на вопросы
