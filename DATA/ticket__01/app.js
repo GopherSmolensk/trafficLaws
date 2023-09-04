@@ -140,7 +140,7 @@ rules.addEventListener('click', (e) => {
 
 
     // Когда ответ не выбран и/или мы перешли к новому вопросу, кнопка "Далее" выключена.
-    btnNext.disabled = true;
+    btnNext.disabled = false;
   }
   if (e.target.classList.contains('btn-restart')) {
     //Сбрасываем ответы
