@@ -4,17 +4,17 @@ export const DATA = [
     link: './img/13-1.jpg',
     answer: [
       {
-        id: '',
+        id: '1',
         value: 'Соответствуют.',
         correct: false,
       },
       {
-        id: '',
+        id: '2',
         value: 'Соответствуют, если отсутствуют встречные транспортные средства.',
         correct: false,
       },
       {
-        id: '',
+        id: '3',
         value: 'Не соответствуют.',
         correct: true,
       },
@@ -25,17 +25,17 @@ export const DATA = [
     link: './img/13-2.jpg',
     answer: [
       {
-        id: '',
+        id: '4',
         value: 'Развернуться на этом перекрестке при отсутствии на нем других транспортных средств.',
         correct: false,
       },
       {
-        id: '',
+        id: '5',
         value: 'Проехать прямо и развернуться за перекрестком.',
         correct: true,
       },
       {
-        id: '',
+        id: '6',
         value: 'Проехать прямо и развернуться только на следующем перекрестке.',
         correct: false,
       },
@@ -46,17 +46,17 @@ export const DATA = [
     link: './img/13-3.jpg',
     answer: [
       {
-        id: '',
+        id: '7',
         value: 'Разрешена.',
         correct: false,
       },
       {
-        id: '',
+        id: '8',
         value: 'Разрешена только с включенной аварийной сигнализацией.',
         correct: false,
       },
       {
-        id: '',
+        id: '9',
         value: 'Запрещена',
         correct: true,
       },
@@ -67,17 +67,17 @@ export const DATA = [
     link: './img/13-4.jpg',
     answer: [
       {
-        id: '',
+        id: '10',
         value: 'Только на легковые автомобили.',
         correct: false,
       },
       {
-        id: '',
+        id: '11',
         value: 'На легковые автомобили, а также на грузовые автомобили с разрешенной максимальной массой не более 3,5 т.',
         correct: true,
       },
       {
-        id: '',
+        id: '12',
         value: 'На легковые автомобили и мотоциклы.',
         correct: false,
       },
@@ -88,17 +88,17 @@ export const DATA = [
     link: './img/13-5.jpg',
     answer: [
       {
-        id: '',
+        id: '13',
         value: 'Только регулируемый.',
         correct: false,
       },
       {
-        id: '',
+        id: '14',
         value: 'Только нерегулируемый.',
         correct: false,
       },
       {
-        id: '',
+        id: '15',
         value: 'Любой.',
         correct: true,
       },
@@ -109,17 +109,17 @@ export const DATA = [
     link: './img/13-6.jpg',
     answer: [
       {
-        id: '',
+        id: '16',
         value: 'Проедете переезд, убедившись в отсутствии приближающегося поезда.',
         correct: true,
       },
       {
-        id: '',
+        id: '17',
         value: 'Остановитесь у светофора, а затем проедете переезд.',
         correct: false,
       },
       {
-        id: '',
+        id: '18',
         value: 'Дождетесь выключения бело-лунного мигающего сигнала и проедете переезд.',
         correct: false,
       },
@@ -130,17 +130,17 @@ export const DATA = [
     link: './img/0-0.jpg',
     answer: [
       {
-        id: '',
+        id: '19',
         value: 'Непосредственно перед началом маневра.',
         correct: true,
       },
       {
-        id: '',
+        id: '20',
         value: 'После начала маневра.',
         correct: false,
       },
       {
-        id: '',
+        id: '21',
         value: 'Только после окончания маневра.',
         correct: false,
       },
@@ -151,17 +151,17 @@ export const DATA = [
     link: './img/13-8.jpg',
     answer: [
       {
-        id: '',
+        id: '22',
         value: 'Только из правой.',
         correct: false,
       },
       {
-        id: '',
+        id: '23',
         value: 'Только из левой.',
         correct: false,
       },
       {
-        id: '',
+        id: '24',
         value: 'Из любой.',
         correct: true,
       },
@@ -172,17 +172,17 @@ export const DATA = [
     link: './img/13-9.jpg',
     answer: [
       {
-        id: '',
+        id: '25',
         value: 'Разрешается.',
         correct: false,
       },
       {
-        id: '',
+        id: '26',
         value: 'Разрешается только при видимости дороги не менее 100 м.',
         correct: true,
       },
       {
-        id: '',
+        id: '27',
         value: 'Запрещается.',
         correct: false,
       },
@@ -193,22 +193,22 @@ export const DATA = [
     link: './img/13-10.jpg',
     answer: [
       {
-        id: '',
+        id: '28',
         value: '60 км/ч.',
         correct: false,
       },
       {
-        id: '',
+        id: '29',
         value: '70 км/ч.',
         correct: false,
       },
       {
-        id: '',
+        id: '30',
         value: '90 км/ч.',
         correct: true,
       },
       {
-        id: '',
+        id: '31',
         value: '110 км/ч.',
         correct: false,
       },
@@ -219,17 +219,17 @@ export const DATA = [
     link: './img/13-11.jpg',
     answer: [
       {
-        id: '',
+        id: '32',
         value: 'Только одно.',
         correct: false,
       },
       {
-        id: '',
+        id: '33',
         value: 'Только два.',
         correct: false,
       },
       {
-        id: '',
+        id: '34',
         value: 'Все три.',
         correct: true,
       },
@@ -240,17 +240,17 @@ export const DATA = [
     link: './img/13-12.jpg',
     answer: [
       {
-        id: '',
+        id: '35',
         value: 'Разрешено.',
         correct: false,
       },
       {
-        id: '',
+        id: '36',
         value: 'Разрешено, только если Вы управляете такси.',
         correct: false,
       },
       {
-        id: '',
+        id: '37',
         value: 'Запрещено.',
         correct: true,
       },
@@ -261,12 +261,12 @@ export const DATA = [
     link: './img/13-13.jpg',
     answer: [
       {
-        id: '',
+        id: '38',
         value: 'Проедете перекресток первым.',
         correct: true,
       },
       {
-        id: '',
+        id: '39',
         value: 'Уступите дорогу трамваю.',
         correct: false,
       },
@@ -277,17 +277,17 @@ export const DATA = [
     link: './img/13-14.jpg',
     answer: [
       {
-        id: '',
+        id: '40',
         value: 'Только водитель легкового автомобиля.',
         correct: false,
       },
       {
-        id: '',
+        id: '41',
         value: 'Только водитель грузового автомобиля.',
         correct: false,
       },
       {
-        id: '',
+        id: '42',
         value: 'Оба.',
         correct: true,
       },
@@ -298,17 +298,17 @@ export const DATA = [
     link: './img/13-15.jpg',
     answer: [
       {
-        id: '',
+        id: '43',
         value: 'Можете.',
         correct: false,
       },
       {
-        id: '',
+        id: '44',
         value: 'Можете, только убедившись в том, что не создадите помех встречному автомобилю, выполняющему поворот налево.',
         correct: true,
       },
       {
-        id: '',
+        id: '45',
         value: 'Не можете.',
         correct: false,
       },
@@ -319,17 +319,17 @@ export const DATA = [
     link: './img/13-16.jpg',
     answer: [
       {
-        id: '',
+        id: '46',
         value: 'Разрешается, если не создадите помех движению маршрутных транспортных средств.',
         correct: false,
       },
       {
-        id: '',
+        id: '47',
         value: 'Разрешается, если Вы управляете легковым такси.',
         correct: true,
       },
       {
-        id: '',
+        id: '48',
         value: 'Запрещается.',
         correct: false,
       },
@@ -340,17 +340,17 @@ export const DATA = [
     link: './img/0-0.jpg',
     answer: [
       {
-        id: '',
+        id: '49',
         value: 'Только в условиях недостаточной видимости.',
         correct: true,
       },
       {
-        id: '',
+        id: '50',
         value: 'Только при движении в темное время суток.',
         correct: false,
       },
       {
-        id: '',
+        id: '51',
         value: 'В обоих перечисленных случаях.',
         correct: false,
       },
@@ -361,17 +361,17 @@ export const DATA = [
     link: './img/0-0.jpg',
     answer: [
       {
-        id: '',
+        id: '52',
         value: 'Не работает стеклоподъемник.',
         correct: false,
       },
       {
-        id: '',
+        id: '53',
         value: 'Неисправно рулевое управление.',
         correct: true,
       },
       {
-        id: '',
+        id: '54',
         value: 'Неисправен глушитель.',
         correct: false,
       },
@@ -382,17 +382,17 @@ export const DATA = [
     link: './img/0-0.jpg',
     answer: [
       {
-        id: '',
+        id: '55',
         value: 'Плавно затормозить.',
         correct: false,
       },
       {
-        id: '',
+        id: '56',
         value: 'Повернуть руль, чтобы съехать с этого участка дороги.',
         correct: false,
       },
       {
-        id: '',
+        id: '57',
         value: 'Не менять траектории и скорости движения.',
         correct: true,
       },
@@ -403,17 +403,17 @@ export const DATA = [
     link: './img/0-0.jpg',
     answer: [
       {
-        id: '',
+        id: '58',
         value: 'Не более получаса в теплое время года и не более одного часа в холодное время года.',
         correct: false,
       },
       {
-        id: '',
+        id: '59',
         value: 'Не более одного часа в теплое время года и не более получаса в холодное время года.',
         correct: true,
       },
       {
-        id: '',
+        id: '60',
         value: 'Время наложения жгута не ограничено.',
         correct: false,
       },
